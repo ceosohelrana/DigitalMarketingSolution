@@ -1,0 +1,915 @@
+/* Extra large devices  */
+@media (min-width: 1200px) {}
+
+/* Large devices */
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+/* Medium devices  */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-toggler i {
+        color: #fff;
+        font-size: 30px;
+    }
+
+    .search i {
+        display: none;
+    }
+
+    .navbar-nav {
+        background: #fff;
+    }
+
+    .navbar-nav .nav-link {
+        color: #3B3664;
+    }
+
+    .bannar_img img {
+        margin-top: 71px;
+    }
+
+    #other {
+        padding: 47px 0;
+    }
+
+    .other_head h3 {
+        font-size: 42px;
+    }
+
+    .other_text p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    #we_work {
+        padding-top: 22px;
+        padding-bottom: 52px;
+    }
+
+    .We_work_head h3 {
+        font-size: 42px;
+    }
+
+    #counter {
+        padding-bottom: 50px;
+    }
+
+    #customar {
+        padding: 43px 0;
+    }
+
+    .customar_text p {
+        font-size: 18px;
+    }
+
+    .award_head h3 {
+        font-size: 40px;
+        line-height: 32px;
+    }
+
+    #award {
+        padding-top: 3px;
+        padding-bottom: 35px;
+    }
+
+    #happy_clint {
+        padding: 31px 0;
+    }
+
+    .happy_clint_head h3 {
+        font-size: 42px;
+    }
+
+    .thinking_head h3 {
+        font-size: 42px;
+        line-height: 36px;
+    }
+
+    .thinking_text h4 {
+        font-size: 20px;
+    }
+
+    .footer_img {
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+
+    .footer_icon a i {
+        font-size: 17px;
+    }
+
+    .call h4 {
+        font-size: 20px;
+    }
+
+    .copy p {
+        font-size: 14px;
+    }
+
+    #about_page #bannar {
+        padding-top: 255px;
+    }
+
+    #about_text {
+        padding-top: 42px;
+        padding-bottom: 49px;
+    }
+
+    .about_text_head h2 {
+        font-size: 32px;
+        line-height: 36px;
+    }
+
+    .about_text_item h3 {
+        font-size: 33px;
+    }
+
+    .about_text_item p {
+        font-size: 17px;
+    }
+
+    .about_write_text p {
+        font-size: 17px;
+    }
+
+    .about_write_text_1 p {
+        font-size: 17px;
+    }
+
+    .about_write_text_1 h3 {
+        line-height: 22px;
+    }
+
+    #social_media_marketing #bannar {
+        padding-top: 254px;
+    }
+
+    #what_is_marketing {
+        padding-top: 49px;
+    }
+
+    .what_is_marketing_head h3 {
+        font-size: 39px;
+    }
+
+    .what_is_marketing_text p {
+        padding-top: 23px;
+    }
+
+    .what_is_marketing_img {
+        text-align: center;
+    }
+
+    .Social_Media_Platforms_head h3 {
+        line-height: 32px;
+    }
+
+    .Social_Media_Platforms_icon h3 {
+        margin-top: 8px;
+        line-height: 24px;
+    }
+
+    #Social_Media_Platforms {
+        padding-bottom: 51px;
+    }
+
+    .Social_Media_Advertising_item h3 {
+        font-size: 25px;
+    }
+
+    .Social_Media_Advertising_item p {
+        font-size: 13px;
+    }
+
+    #Chose_us {
+        padding-top: 6px;
+        padding-bottom: 43px;
+    }
+
+    .chose_us_item_icon h3 {
+        font-size: 23px;
+        margin-top: 15px;
+    }
+
+    #google #bannar {
+        padding-top: 251px;
+    }
+
+    .new_google_item h4 {
+        line-height: 22px;
+    }
+
+    #lead #bannar {
+        padding-top: 251px;
+    }
+
+    #lead_generaction {
+        padding-top: 10px;
+        padding-bottom: 59px;
+    }
+
+    .lead_generaction_item h3 {
+        font-size: 29px;
+    }
+
+    .lead_btn {
+        text-align: center;
+    }
+
+    .lead_generaction_img img {
+        margin-top: 30px;
+    }
+
+    .lead_starrtagy_text h3 {
+        font-size: 34px;
+        line-height: 35px;
+    }
+
+    #testomonial #bannar {
+        padding-top: 251px;
+    }
+
+    #testomonial_section {
+        padding: 53px 0;
+    }
+
+    .testomonial_head h3 {
+        font-size: 36px;
+    }
+
+    .testomonial_text h4 {
+        font-size: 20px;
+    }
+
+    #contact_page #bannar {
+        padding-top: 251px;
+    }
+
+    .contact_form {
+        margin-top: 35px;
+        text-align: center;
+    }
+
+
+}
+
+/* Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-toggler i {
+        color: #fff;
+        font-size: 30px;
+    }
+
+    .search i {
+        display: none;
+    }
+
+    .bannar_img img {
+        margin-top: 71px;
+    }
+
+    #other {
+        padding: 63px 0;
+    }
+
+    #we_work {
+        padding-top: 9px;
+        padding-bottom: 37px;
+    }
+
+    #counter {
+        padding-top: 10px;
+        padding-bottom: 32px;
+    }
+
+    .navbar-nav {
+        background: #fff;
+    }
+
+    .navbar-nav .nav-link {
+        color: #3B3664;
+    }
+
+    .We_work_head h3 {
+        font-size: 38px;
+    }
+
+    .other_head h3 {
+        font-size: 38px;
+    }
+
+    #service {
+        padding-bottom: 40px;
+    }
+
+    #customar {
+        padding: 60px 0;
+    }
+
+    .customar_text h3 {
+        font-size: 38px;
+    }
+
+    .other_text p {
+        font-size: 16px;
+    }
+
+    .customar_text p {
+        font-size: 16px;
+    }
+
+    .customar_btn {
+        text-align: center;
+    }
+
+    #award {
+        padding-top: 12px;
+        padding-bottom: 27px;
+    }
+
+    .award_head h3 {
+        font-size: 38px;
+        line-height: 35px;
+    }
+
+    #happy_clint {
+        padding: 28px 0;
+    }
+
+    .happy_clint_head h3 {
+        font-size: 38px;
+    }
+
+    .local_img {
+        margin-bottom: 28px;
+        margin-left: 40px;
+    }
+
+    .thinking_head h3 {
+        font-size: 37px;
+        line-height: 35px;
+    }
+
+    .footer_img {
+        margin-top: 32px;
+        margin-bottom: 21px;
+    }
+
+    .footer_icon a i {
+        font-size: 18px;
+    }
+
+    .call h4 {
+        font-size: 20px;
+    }
+
+    .copy p {
+        line-height: 22px;
+    }
+
+    #about_page #bannar {
+        padding-top: 256px;
+    }
+
+    .about_text_head h2 {
+        font-size: 26px;
+    }
+
+    .about_text_item h3 {
+        font-weight: 600;
+    }
+
+    .about_text_item p {
+        font-size: 17px;
+    }
+
+    #about_text {
+        padding-bottom: 44px;
+    }
+
+    .about_write_text p {
+        font-size: 17px;
+    }
+
+    .about_write_text_1 p {
+        font-size: 17px;
+    }
+
+    .about_write_text_1 h3 {
+        line-height: 26px;
+    }
+
+    #social_media_marketing #bannar {
+        padding-top: 251px;
+    }
+
+    .what_is_marketing_head h3 {
+        font-size: 38px;
+        line-height: 34px;
+    }
+
+    .what_is_marketing_text p {
+        padding-top: 29px;
+        font-size: 17px;
+    }
+
+    .what_is_marketing_img img {
+        margin-top: 25px;
+    }
+
+    .Social_Media_Platforms_head h3 {
+        font-size: 31px;
+        line-height: 32px;
+    }
+
+    .Social_Media_Platforms_icon h3 {
+        font-size: 25px;
+        margin-top: 25px;
+    }
+
+    #Average_Advertising {
+        padding-bottom: 37px;
+    }
+
+    .chose_us_item_icon h3 {
+        margin-top: 18px;
+    }
+
+    #google #bannar {
+        padding-top: 256px;
+    }
+
+    .google_bannar_icon_text h3 {
+        margin-top: 13px;
+    }
+
+    .facebook_stratagy_text h3 {
+        font-size: 28px;
+    }
+
+    .facebook_stratagy_text p {
+        font-size: 17px;
+    }
+
+    #facbook_stratagy {
+        padding-bottom: 0px;
+    }
+
+    #lead #bannar {
+        padding-top: 251px;
+    }
+
+    #lead_generaction {
+        padding-top: 11px;
+        padding-bottom: 51px;
+    }
+
+    .lead_generaction_item h3 {
+        font-size: 32px;
+    }
+
+    .lead_btn {
+        text-align: center;
+    }
+
+    .lead_generaction_img img {
+        margin-top: 27px;
+    }
+
+    .lead_starrtagy_text h3 {
+        font-size: 32px;
+    }
+
+    #testomonial #bannar {
+        padding-top: 250px;
+    }
+
+    .testomonial_head h3 {
+        font-size: 36px;
+        line-height: 32px;
+    }
+
+    .testomonial_text h4 {
+        font-size: 23px;
+        margin-top: 10px;
+    }
+
+    #contact_page #bannar {
+        padding-top: 251px;
+    }
+
+    .contact_info_item h3 {
+        font-size: 37px;
+    }
+
+    .contact_text p {
+        font-size: 20px;
+    }
+
+    .contacta_icon_text {
+        padding-bottom: 18px;
+    }
+
+    .contact_form {
+        margin-top: 57px;
+    }
+
+    .contact_form form input {
+        margin-bottom: 29px;
+        width: 100%;
+    }
+
+    .contact_form {
+        text-align: center;
+    }
+}
+
+
+
+
+
+
+/* Extra small devices */
+@media (max-width: 575.98px) {
+    .bannar_content h3 {
+        line-height: 28px;
+    }
+
+    .navbar-toggler i {
+        color: #fff;
+        font-size: 30px;
+    }
+
+    .navbar-nav {
+        background: #fff;
+    }
+
+    .navbar-nav .nav-link {
+        color: #3B3664;
+    }
+
+    .search i {
+        display: none;
+    }
+
+    #bannar {
+        padding-top: 100px;
+    }
+
+    .bannar_content h1 {
+        font-size: 43px;
+        line-height: 51px;
+        letter-spacing: 2px;
+    }
+
+    .bannar_btn {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .bannar_img img {
+        padding-top: 50px;
+    }
+
+    .other_head h3 {
+        font-size: 42px;
+        line-height: 44px;
+    }
+
+    .other_text p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    #other {
+        padding: 50px 0;
+    }
+
+    .We_work_head h3 {
+        font-size: 42px;
+    }
+
+    #counter {
+        padding-bottom: 65px;
+    }
+
+    .We_work_head h3 {
+        line-height: 45px;
+    }
+
+    #customar {
+        padding: 50px 0;
+    }
+
+    .customar_text h3 {
+        font-size: 30px;
+        line-height: 43px;
+    }
+
+    .customar_text p {
+        font-size: 15px;
+    }
+
+    .customar_btn {
+        text-align: center;
+    }
+
+    .award_head h3 {
+        font-size: 32px;
+        line-height: 34px;
+    }
+
+    #happy_clint {
+        padding: 19px 0;
+    }
+
+    .happy_clint_head h3 {
+        font-size: 31px;
+        line-height: 37px;
+    }
+
+    .local_img img {
+        width: 100%;
+    }
+
+    .thinking_head h3 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+
+    .thinking_text h4 {
+        font-size: 20px;
+    }
+
+    .footer_text p {
+        font-size: 15px;
+    }
+
+    .footer_img {
+        margin-top: 20px;
+    }
+
+    .footer_img {
+        margin-top: 26px;
+        margin-bottom: 20px;
+    }
+
+    .footer_icon a i {
+        font-size: 18px;
+    }
+
+    .call h4 {
+        font-size: 15px;
+    }
+
+    .copy p {
+        font-size: 12px;
+        line-height: 19px;
+    }
+
+    .up_to_top {
+        bottom: 23px;
+        right: 19px;
+        border-radius: 36px 36px 40px 40px;
+    }
+
+    #about_page #bannar {
+        padding-top: 255px;
+    }
+
+    .about_text_head h2 {
+        font-size: 21px;
+        line-height: 35px;
+    }
+
+    .about_text_head h5 {
+        padding-top: 26px;
+        padding-bottom: 16px;
+        line-height: 22px;
+    }
+
+    .about_text_head p {
+        font-size: 14px;
+    }
+
+    .about_text_item h3 {
+        font-size: 32px;
+        font-weight: 600;
+    }
+
+    .about_text_item p {
+        font-size: 16px;
+    }
+
+    #about_text {
+        padding-bottom: 38px;
+    }
+
+    .about_write_text p {
+        font-size: 16px;
+    }
+
+    .about_write_text_1 h3 {
+        line-height: 24px;
+    }
+
+    .about_write_text_1 p {
+        font-size: 16px;
+    }
+
+    .about_head h1 {
+        line-height: 30px;
+    }
+
+    #social_media_marketing #bannar {
+        padding-top: 240px;
+    }
+
+    .about_head h5 {
+        line-height: 22px;
+    }
+
+    .what_is_marketing_head h3 {
+        font-size: 28px;
+        line-height: 26px;
+    }
+
+    .what_is_marketing_head p {
+        line-height: 21px;
+    }
+
+    .what_is_marketing_text p {
+        padding-top: 40px;
+        line-height: 22px;
+    }
+
+    .what_is_marketing_img img {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .Social_Media_Platforms_head h3 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+
+    .Social_Media_Platforms_icon h3 {
+        font-size: 25px;
+        margin-top: 5px;
+        margin-left: 14px;
+        line-height: 26px;
+    }
+
+    .Social_Media_Platforms_item_text p {
+        font-size: 15px;
+    }
+
+    #Social_Media_Platforms {
+        padding-bottom: 32px;
+    }
+
+    .Average_Advertising_item_text p {
+        font-size: 15px;
+    }
+
+    #Average_Advertising {
+        padding-bottom: 40px;
+    }
+
+    .Social_Media_Advertising_item h3 {
+        font-size: 20px;
+        margin-bottom: 4px;
+    }
+
+    .chose_us_item_icon h3 {
+        font-size: 20px;
+    }
+
+    #google #bannar {
+        padding-top: 240px;
+    }
+
+    .google_bannar_icon_text h3 {
+        font-size: 24px;
+        line-height: 22px;
+    }
+
+    .google_bannar_icon_text p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    #google_bannar {
+        padding-bottom: 20px;
+    }
+
+    .facebook_stratagy_text h3 {
+        font-size: 29px;
+        line-height: 30px;
+    }
+
+    .facebook_stratagy_text p {
+        font-size: 16px;
+    }
+
+    .new_google_item p {
+        font-size: 14px;
+    }
+
+    #facbook_stratagy {
+        padding-bottom: 0px;
+    }
+
+    #lead #bannar {
+        padding-top: 250px;
+    }
+
+    #lead_generaction {
+        padding-top: 6px;
+        padding-bottom: 23px;
+    }
+
+    .lead_generaction_item h3 {
+        font-size: 23px;
+        line-height: 25px;
+    }
+
+    .lead_generaction_item p {
+        font-size: 14px;
+    }
+
+    .lead_counter h6 {
+        line-height: 22px;
+    }
+
+    .lead_counter h6 {
+        line-height: 19px;
+        font-size: 15px;
+    }
+
+    .lead_btn {
+        text-align: center;
+    }
+
+    .lead_btn a {
+        margin-bottom: 23px;
+    }
+
+    .lead_starrtagy_text h3 {
+        font-size: 21px;
+        margin-bottom: -3px;
+    }
+
+    #testomonial #bannar {
+        padding-top: 251px;
+    }
+
+    .testomonial_head h3 {
+        font-size: 34px;
+        line-height: 31px;
+    }
+
+    .testomonial_text h4 {
+        font-size: 22px;
+        margin-top: 5px;
+    }
+
+    .testomonial_item p {
+        font-size: 14px;
+    }
+
+    .testomonial_text h5 {
+        line-height: 18px;
+    }
+
+    #contact_page #bannar {
+        padding-top: 251px;
+    }
+
+    .contact_info_item h3 {
+        font-size: 17px;
+        margin-bottom: 10px;
+    }
+
+    .contact_text p {
+        font-size: 16px;
+        margin-bottom: -12px;
+        line-height: 19px;
+    }
+
+    .contacta_icon_text {
+        padding-bottom: 18px;
+    }
+
+    .contact_icon i {
+        font-size: 23px;
+    }
+
+    .contact_form {
+        margin-top: 31px;
+    }
+
+    .contact_form form input {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+}
